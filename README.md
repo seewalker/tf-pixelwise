@@ -15,5 +15,5 @@ None is a category because this model has been trained to distinguish foreground
 
 #INSTALLATION
 
-The only software dependencies are the various python modules being imported and CUDA. It is tested on CUDA 7.5
+The only software dependencies are the various python modules being imported and CUDA. It is tested on CUDA 7.5 and with python 3.5.
 In terms of hardware, a GPU will help, but tensorflow should be able to failover into CPU-only mode.
